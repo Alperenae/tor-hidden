@@ -8,5 +8,5 @@ git clone https://github.com/Alperenae/tor-hidden/
 cd tor-hidden/
 chmod +x *
 python3 setup.py
-pyton3 tor-hidden.py
+python3 tor-hidden.py
 ```
